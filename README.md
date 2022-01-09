@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Automation and Data Science.
 - 🌱 I’m currently learning Python.
-- 💬 Ask me about VBA, Python, SQL, etc.
+- 💬 Ask me about VBA, Python, SQL, ...
 - 📫 How to reach me: efarthou@gmail.com
 - 😄 Pronouns: He/His
 </td>
