@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about VBA, Python, SQL, ...
 - 📫 How to reach me: efarthou@gmail.com
-- 😄 Pronouns: He/His
 </td>
   
 <td>
@@ -19,7 +18,6 @@
 - 🌱 Eu estou aprendendo Python.
 - 💬 Me pergunta sobre VBA, Python, SQL, etc.
 - 📫 Como entrar em contato: efarthou@gmail.com
-- 😄 Pronomes: Ele/Dele
 </td>
 </table>
 
